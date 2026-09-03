@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbarContainer{
+    height: 70px;
+    width: 100%;
+    background-color: beige;
+    display: flex;
+}
+.navbarContainer .logo{
+    flex-basis:10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbarContainer .menu{
+    flex-basis:70%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.menu a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 22px;
+}
+.menu a:hover{
+    border-bottom: 2px solid coral;
+}
+.navbarContainer .btns{
+    flex-basis:20%; 
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.btns a button{
+    height: 50px;
+    width: 120px;
+    border: none;
+    background-color: maroon;
+    color: aliceblue;
+    font-size: 20px;
+    border-radius: 25px;
+}
+.btns a button:hover{
+    background-color: #000000;
+    color: aliceblue;
+}
+

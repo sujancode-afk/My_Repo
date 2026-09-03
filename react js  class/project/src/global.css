@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbarContainer{
+    height: 70px;
+    width: 100%;
+    background-color: cornflowerblue;
+    display: flex;
+}
+.navbarContainer .logoBlock{
+    flex-basis: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logoBlock img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.navbarContainer .menuBlock{
+    height: 70px;
+    flex-basis: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.menuBlock a{
+    color: aliceblue;
+    font-size: 28px;
+    text-decoration: none;
+}

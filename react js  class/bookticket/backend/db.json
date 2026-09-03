@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "id": "1ce3",
+      "username": "Prajwal",
+      "email": "p@gmail.com",
+      "password": "1234",
+      "phnum": "1234567890",
+      "imageUrl": "https://avatars.githubusercontent.com/u/160094074?v=4",
+      "gender": "male"
+    },
+    {
+      "id": "dc4c",
+      "username": "sujan",
+      "email": "sujan@gmail.com",
+      "password": "1234",
+      "phnum": "",
+      "imageUrl": "",
+      "gender": "male"
+    },
+    {
+      "id": "cdbd",
+      "username": "harsha",
+      "email": "harsha@gmail.com",
+      "password": "harsha123",
+      "phnum": "8310512069",
+      "imageUrl": "https://rukminim2.flixcart.com/image/480/640/xif0q/poster/x/u/f/medium-appu-puneeth-rajkumar-i-kannada-cinema-i-wall-poster-a4-original-imagm29ggbjjj8bw.jpeg?q=90",
+      "gender": "male"
+    }
+  ],
+  "movies": [
+    {
+      "id": "1",
+      "title": "KGF Chapter 1",
+      "genre": "Action",
+      "seats": 64,
+      "img": "https://m.media-amazon.com/images/M/MV5BNDVlYWYzNDUtZTM3Ny00OTI5LThiZDQtNTA0YjFhMTE1YTdjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "KGF Chapter 2",
+      "genre": "Action",
+      "seats": 70,
+      "img": "https://m.media-amazon.com/images/S/pv-target-images/dbe30e1e25813a698e0da679a5968c380bd2d1b4e6966394d4c964c6b3301896.jpg"
+    },
+    {
+      "id": "3",
+      "title": "18th Cross ",
+      "genre": "Action",
+      "seats": 65,
+      "img": "https://tse4.mm.bing.net/th/id/OIP.My4pov6HGVHyR_6aqQUEFQHaEK?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "4",
+      "title": "27 Mavalli Circle",
+      "genre": "Action",
+      "seats": 70,
+      "img": "https://tse1.mm.bing.net/th/id/OIP.VPgzoYkRaMxKF-QBNmClcgHaEK?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "5",
+      "title": "1st Rank Raju ",
+      "genre": "Action",
+      "seats": 68,
+      "img": "https://tse3.mm.bing.net/th/id/OIP.pjl49jTUs4KqBa7HfXTIlQHaFn?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "6",
+      "title": "Baahubali 2: The Conclusion",
+      "genre": "Action",
+      "seats": 70,
+      "img": "https://images.justwatch.com/poster/205085390/s718/baahubali-2-the-conclusion.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "id": "1",
+      "title": "Cricket",
+      "team": "RCB vs CSK",
+      "seats": 32999,
+      "img": "https://www.financialexpress.com/wp-content/uploads/2025/03/FotoJet-2025-03-28T111058.597.jpg",
+      "stadium": " M Chinnaswamy stadium"
+    },
+    {
+      "id": "2",
+      "title": "Football",
+      "team": "BFC vs GFC",
+      "seats": 15000,
+      "img": "https://www.indiansuperleague.com/static-assets/waf-images/e9/d2/80/4-3/kprHm8FCQ1.png?v=100.71&w=1024",
+      "stadium": "Kanteerava stadium "
+    },
+    {
+      "id": "3",
+      "title": "Cricket",
+      "team": "RCB vs PBKS",
+      "seats": 35000,
+      "img": "https://tse4.mm.bing.net/th/id/OIP.71lu4_5u9ktw5zU7BOGNlgHaED?pid=Api&P=0&h=180",
+      "stadium": " M Chinnaswamy stadium"
+    },
+    {
+      "id": "4",
+      "title": "Football",
+      "team": "BFC vs KFBC",
+      "seats": 15000,
+      "img": "https://tse1.mm.bing.net/th/id/OIP.9Gbk3fgizmpfbW69AwTUxAHaEK?pid=Api&P=0&h=180",
+      "stadium": "Kanteerava stadium "
+    },
+    {
+      "id": "5",
+      "title": "Cricket",
+      "team": "KKR vs RCB",
+      "seats": 35000,
+      "img": "https://img.ipl.com/upload/20250322/5caa9e74cef17d19370b59c91d1caaed.jpg",
+      "stadium": " M Chinnaswamy stadium"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "a50e"
+    },
+    {
+      "id": "d064",
+      "username": "sujan",
+      "phnum": "9834569349",
+      "email": "sujan@gmail.com",
+      "seats": 2,
+      "refID": "1",
+      "type": "movies",
+      "title": "KGF Chapter 1"
+    },
+    {
+      "id": "7272",
+      "username": "najus",
+      "phnum": "9834569349",
+      "email": "sujan@gmail.com1234",
+      "seats": 1,
+      "refID": "1",
+      "type": "sports",
+      "title": "Cricket"
+    },
+    {
+      "id": "cf37",
+      "username": "uguadgchicihdi",
+      "phnum": "9834569349",
+      "email": "sujan@gmail.com1234",
+      "seats": 5,
+      "refID": "3",
+      "type": "movies",
+      "title": "18th Cross "
+    },
+    {
+      "id": "d02c",
+      "username": "harsha",
+      "phnum": "8310512069",
+      "email": "harsha@gmail.com",
+      "seats": 2,
+      "refID": "5",
+      "type": "movies",
+      "title": "1st Rank Raju "
+    }
+  ]
+}

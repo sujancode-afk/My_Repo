@@ -1,0 +1,36 @@
+[
+    {
+        "stdId": 101, 
+        "stdName": "Tejas", 
+        "stdAddress": "Mysore", 
+        "stdPhNumber": 9874563210,
+        "img":"https://media.licdn.com/dms/image/v2/D5635AQGEhitRRK6ttg/profile-framedphoto-shrink_400_400/B56Zj7gBtMHUAc-/0/1756566133821?e=1768906800&v=beta&t=xvIdQgJpdBueK9dJs44qhOTWmQeNeufX9AKXMHN9r4Q"
+    },
+    {
+        "stdId": 102, 
+        "stdName": "Vinay", 
+        "stdAddress": "KR Nagar", 
+        "stdPhNumber": 9874563210
+    },
+    {
+        "stdId": 103, 
+        "stdName": "Sanjeev", 
+        "stdAddress": "Gundlupet", 
+        "stdPhNumber": 9874563210,
+        "img":"https://media.licdn.com/dms/image/v2/D5635AQF8OJJSwuT1dQ/profile-framedphoto-shrink_400_400/B56ZkJV5p_HMAc-/0/1756798360551?e=1768906800&v=beta&t=lBsTqOQfH9m84Vbu2aOxoaKwhq5LQ0XMbpZY7MmERrQ"
+    },
+    {
+        "stdId": 104, 
+        "stdName": "Vijay", 
+        "stdAddress": "Mysore", 
+        "stdPhNumber": 9874563210,
+        "img":"https://media.licdn.com/dms/image/v2/D5635AQHdUjdFl1bdkg/profile-framedphoto-shrink_400_400/B56ZW2wKMQHoAg-/0/1742527833173?e=1768906800&v=beta&t=ib0NAdQrtJiPFum-mDYj-3PfqgLEhM8hQegQlIzH4P4"
+    },
+    {
+        "stdId": 105, 
+        "stdName": "Sinchana", 
+        "stdAddress": "Mysore", 
+        "stdPhNumber": 9874563210,
+        "img":"https://media.licdn.com/dms/image/v2/D4D35AQEZVFz5Xvu47g/profile-framedphoto-shrink_400_400/B4DZkesFaAJMAc-/0/1757156497375?e=1768906800&v=beta&t=U_SvxD__TFt8wudO1onVkU6dP1EeR2vdIu6ceRWJRTo"
+    }
+]
